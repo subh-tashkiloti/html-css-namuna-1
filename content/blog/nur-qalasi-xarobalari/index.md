@@ -6,75 +6,57 @@ description: Ko‘hna tariximiz chorrahalaridan biri shu yerda bo‘lganligiga s
 
 ![rasm](./rasm.jpg)
 
-O‘rta asrlarda ilm-fan gullab-yashnagan Buxoro va uning atrofidagi eng qadimgi shaharlaridan biri bo‘lgan Nurning “Nuri Buxoro” deb atalishi bejiz emas. XX asr oxirlarida shaharda 32 ta masjid, chashma majmuasida madrasa va xonaqohlar bo‘lganligini mahalliy xalq hozir ham eslaydi. Ko‘pincha, masjidlar o‘zlaridan qadimiyroq me’moriy obidalar ustiga qurilgan. Eskirgan, buzilib ketgan masjid o‘rniga yangisi qurilavergan. Ammo masjidning eski nomi saqlanib qolgan.
+O‘rta asrlarda ilm-fan gullab-yashnagan **Buxoro va uning atrofidagi** eng qadimgi *shaharlaridan* biri bo‘lgan Nurning “Nuri Buxoro” deb atalishi bejiz emas. XX asr oxirlarida shaharda 32 ta masjid, chashma majmuasida madrasa va xonaqohlar bo‘lganligini mahalliy xalq hozir ham eslaydi. Ko‘pincha, masjidlar o‘zlaridan qadimiyroq me’moriy obidalar ustiga qurilgan. Eskirgan, buzilib ketgan masjid o‘rniga yangisi qurilavergan. Ammo masjidning eski nomi saqlanib qolgan.
 
 Nurotalik keksa otaxonlardan F.Bahromov va A.Samadov ushbu masjidlar nomini sanab berdi:
 
 ##### Arabguzar masjidlari
 
 1. Sayidato masjid.
-
 2. Chuqurak masjid.
-
 3. Masjidi Safed.
-
 4. Shakarak masjid.
-
 5. Bargso‘z masjid.
-
 6. Hovuzak masjid
-
  
 
 ##### O‘rta guzar masjidlari
 
 1. Domalla masjid.
-
 2. Kaltako‘cha masjid.
-
 3. Turko masjid.
-
 4. Sodiq masjid.
-
 5. Qulmahmad masjid.
-
 6. Mozori chilla masjid.
-
 7. Bo‘diq masjid.
-
  
 
 ##### Mirishkor guzar masjidlari
 
 1. Duoba masjid.
-
 2. Doston masjid.
-
 3. Luchchak masjid.
-
 4. Osiyoibaland masjid.
-
 5. Mirishkor masjid.
 
 ##### Rabotto‘lg‘on guzar masjidlari
 
-1. Qo‘rg‘on masjid.
-
-2. Yetimcha masjid.
-
-3. Dasht masjid.
-
-4. Xo‘ja masjid.
-
-5. Avezxo‘ja masjid.
-
-6. Sariosiyo masjid.
-
-7. Rabotto‘lg‘on masjid.
-
-8. Lo‘la masjid.
+* Qo‘rg‘on masjid.
+* Yetimcha masjid.
+* Dasht masjid.
+* Xo‘ja masjid.
+* Avezxo‘ja masjid.
+* Sariosiyo masjid.
+* Rabotto‘lg‘on masjid.
+* Lo‘la masjid.
 
 Shahardagi guzar masjidi  nomlari asosan mahallalar nomlari bilan bir xil bo‘lgan. Masalan, Domalla masjid -­- Domalla mahallasi, Sayidato masjid  Sayidato mahallasi, Doston masjid -­- Doston mahallasi va  hokazo. Yuqoridagi masjidlarning qariyb hammasi buzilib ketgan. Faqatgina shahardagi “Chilustun” jome masjidi, “Panjvaqta” Katta Gumbaz masjidi, Domalla, Sayidato, Bargso‘z, Oqmachit kabi masjidlar kutubxona, mahalla idoralariga aylantirilganligi sababli saqlanib qolgan va hozirgi kunda namozxonlar ixtiyoriga berildi. Mustaqillik yillarida shahardagi tashabbuskor ziyolilar sa’y-harakati bilan Bo‘diq hamda Osiyoibaland masjidlari eski o‘rnida yana qad ko‘tardi.
+
+Shahardagi | guzar | masjidi
+- | - | -
+nomlari | asosan | mahallalar
+nomlari | bilan | bir xil
+bo'lgan | masalan | domalla masjid
 
 Asrimiz boshida Nurotada masjidlar sonining ko‘pligi xalqimizning madaniyati yuqori, e’tiqodi mustahkam bo‘lganligining nishonasidir. Birgina Domalla va Sayidato mahallasida 1920 yillarda mullo Asatillo, so‘fi Rahmonqul Hoji mufti, domullo Hoji, mullo Abduqahhor, mullo Rayimqul, qori Haqberdi, mullo Mahmarajab, mullo Rahmonberdi, so‘fi Tolib, mullo Shokirota, mullo Rahmonqul, mullo Suponqul, mullo Eshonqul, mullo Yorqul, qori Mahmud, mullo Bobo, mirzo Karomatillo, mullo Supon, boboi Xatib, hoji Cho‘li, hoji Nosir, qori Sodiq, mullo Sayyidxon, mullo Atoxon, mullo Obidxon, mullo  Qobilxon, mullo Yoqubxon, mullo Aslonxon, mullo Islomxon, mullo Usmonxon, mullo Qaroxon, mullo Bahodirxon, mullo Abduholiqxon, mullo Abduvohidxon, mullo Muftilloxon, mullo Madadxon, mullo To‘raxo‘ja, mullo Jalolxon, mullo Muqimxon xo‘ja, mullo To‘raxon va boshqalar kabi zabardast ziyoli va savodxon insonlar yashagan.
 
