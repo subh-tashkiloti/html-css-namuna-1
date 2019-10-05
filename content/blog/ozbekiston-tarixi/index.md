@@ -18,7 +18,7 @@ Toshkent besh olti yetti sakkiz toʻqqiz oʻn bir ikki uch toʻrt besh olti yett
 5. bir ikki
 6. oʻn bir ikki 
 
-Masjid ikki uch toʻrt besh olti yetti choʻl sakkiz toʻqqiz oʻn bir ikki uch toʻrt besh olti yetti sakkiz. Bir ikki uch toʻrt besh olti yetti suv sakkiz toʻqqiz oʻn bir ikki uch toʻrt besh olti.
+Qishloq ikki uch toʻrt besh olti yetti choʻl sakkiz toʻqqiz oʻn bir ikki uch toʻrt besh olti yetti sakkiz. Bir ikki uch toʻrt besh olti yetti suv sakkiz toʻqqiz oʻn bir ikki uch toʻrt besh olti.
 
 besh olti | guzar | olti yetti
 - | - | -
