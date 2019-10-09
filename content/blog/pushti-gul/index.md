@@ -1,5 +1,5 @@
 ---
-title: Oʻzbekiston tarixi
+title: Ko'chadagi pushti gul
 date: "1975-05-28T22:40:32.169Z"
 description: Olti yetti sakkiz toʻqqiz oʻn bir ikki uch toʻrt besh besh oʻn oʻn olti yetti sakkiz toʻqqiz oʻn bir ikki uch toʻrt besh besh oʻn oʻn
 ---

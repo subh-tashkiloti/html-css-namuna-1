@@ -1,7 +1,7 @@
 ---
-title: Haqiqat va muvaffaqiyat
-date: "1980-05-28T22:40:32.169Z"
-description: Uch toʻrt besh olti yetti sakkiz toʻqqiz oʻn bir ikki uch toʻrt besh toʻqqiz oʻn bir ikki uch toʻrt besh
+title: Abu Jaʼfar Muhammad ibn Muso al Xorazmiy
+date: "1970-05-28T22:40:32.169Z"
+description: Yetti sakkiz toʻqqiz oʻn bir ikki yetti uch toʻrt besh besh oʻn oʻn olti yetti sakkiz toʻqqiz oʻn bir ikki uch toʻrt yetti besh besh oʻn oʻn
 ---
 
 ![rasm](./rasm.jpg)

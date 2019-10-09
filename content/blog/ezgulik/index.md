@@ -1,7 +1,7 @@
 ---
-title: Odamning ildizi
-date: "1970-05-28T22:40:32.169Z"
-description: Yetti sakkiz toʻqqiz oʻn bir ikki yetti uch toʻrt besh besh oʻn oʻn olti yetti sakkiz toʻqqiz oʻn bir ikki uch toʻrt yetti besh besh oʻn oʻn
+title: Ilm, qiziqish, ezgulik
+date: "1980-05-28T22:40:32.169Z"
+description: Uch toʻrt besh olti yetti sakkiz toʻqqiz oʻn bir ikki uch toʻrt besh toʻqqiz oʻn bir ikki uch toʻrt besh
 ---
 
 ![rasm](./rasm.jpg)
